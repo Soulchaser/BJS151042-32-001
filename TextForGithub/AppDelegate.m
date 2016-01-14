@@ -14,6 +14,7 @@
 @property(strong,nonatomic)UITableView *myTV;
 @property(strong,nonatomic) UICollectionView * collection;//东东添加
 @property(strong,nonatomic) UITableView * tableView;
+@property(strong,nonatomic) UITableView * tableView2;
 @end
 
 @implementation AppDelegate
