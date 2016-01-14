@@ -13,7 +13,7 @@
 @property(strong,nonatomic)UIButton *mybutton;
 @property(strong,nonatomic)UITableView *myTV;
 @property(strong,nonatomic) UICollectionView * collection;//东东添加
-@property(strong,nonatomic) UITableView * tableView;
+//@property(strong,nonatomic) UITableView * tableView;
 @end
 
 @implementation AppDelegate
